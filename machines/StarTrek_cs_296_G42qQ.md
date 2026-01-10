@@ -1,3 +1,3 @@
-#### Game Version
-
-- This is the version by Data East, 1991
+### Data East Star Trek
+custom room info STAR TREK v.3.00
+https://www.pinballcode.com/trek300

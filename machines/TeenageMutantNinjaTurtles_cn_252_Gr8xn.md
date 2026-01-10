@@ -1,7 +1,6 @@
-#### Game Version
+This is the Data east game
 
-- This is the version by Data East, 1991
+Install Teenage Mutant Ninja Turtles Unofficial v.2.00
+https://www.pinballcode.com/tmnt200
 
-#### Custom ROM
-
-- A v2.00 ROM is available that changes scoring and introduces various bug fixes.
+Set Adjustment 40 TOURNAMENT MODE on

@@ -1,3 +1,1 @@
-#### Game Version
-
-- This is the version by Data East, 1990
+This is the stern game

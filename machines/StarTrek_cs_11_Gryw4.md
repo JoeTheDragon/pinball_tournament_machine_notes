@@ -1,7 +1,4 @@
-#### Game Version
-
-- This is the version by Stern, 2013 & 2018
-
+### Stern Star Trek
 #### Install Menu
 
 - Install 3-Ball

@@ -27,3 +27,6 @@
 - Do Tournament mode 1st as this resets many settings
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/) and others
+
+custom rom info STAR WARS v.1.07
+https://www.pinballcode.com/sw107

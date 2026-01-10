@@ -8,6 +8,5 @@ Tales from the Crypt will be an average to longer playing game in a competitive 
 
 Source: [PAPA/ReplayFX Competition Notes](https://replayfoundation.org/papa/learning-center/director-guide/game-notes/#GameNotes)
 
-#### Custom ROM
-
-- A v4.00 ROM is available that changes scoring and includes bug fixes.
+An option is to install unofficial ROM 4.0 for better scoring and other fixes
+https://www.pinballcode.com/tftc4
