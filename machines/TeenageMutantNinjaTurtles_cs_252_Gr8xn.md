@@ -1,2 +1,3 @@
-This is the Data east game
+#### Game Version
 
+- This is the version by Data East, 1991

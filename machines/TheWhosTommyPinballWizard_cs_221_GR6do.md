@@ -20,7 +20,3 @@
 - Do Tournament mode 1st as this resets many settings
 
 Source: [WA Pinball Machine Notes](http://wapinball.net/setups/)
-
-
-custom rom info The Who’s TOMMY Unofficial v.5.00
-https://www.pinballcode.com/tommy5
