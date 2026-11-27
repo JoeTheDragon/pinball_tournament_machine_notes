@@ -24,3 +24,14 @@ The jackpot value increases if the game ends with zero credits and the game that
 
 - Add credits
 - Manually score a Jackpot (shoot right ramp 3 times before time expires)
+
+
+#### Custom ROM
+Custom ROM's
+https://www.vpforums.org/index.php?showtopic=59938
+
+1. The Gate Jackpot is set to 500,000 at the start of every game, for every player.
+2. Each player has their own Gate Jackpot. Rollover increments and jackpot
+   collection only affect the player who is up. Each player starts at 500,000.
+3. The end-of-game +1,000,000 jackpot bonus is removed, so the jackpot no
+   longer depends on credits or free play.
