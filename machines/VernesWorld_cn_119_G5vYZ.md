@@ -30,7 +30,12 @@ Changes to the supplied MOD in `vwmcpu0.rom` and `vwmcpu1.rom`:
   - Pulse coils 6 (octopus release), 7, 13 (volcano elevator), or 20.
   - Start the balloon motor (coil 23).
   - Clear the lock counts.
-  
+
+- A multiball start no longer shortens an active new travel (ball saver) timer. It used to
+  overwrite it with the multiball repeat time, which is only 5 ticks when that dip is Disabled.
+- The ball-saver timers (new ticket / new travel, and the multiball saver) no longer count down while a
+  ball is sitting in the shooter lane. They start counting once the ball leaves it.
+
   This prevents the early ball-search rounds from activating the lock-release mechanisms or clearing their counts. Beginning with the sixth round, ball search follows the base MOD's behavior, including its normal lock-release/chase-ball sequence.
 
 The base MOD's 60-second / 76-second no-switch timeout and all its other changes are retained.
